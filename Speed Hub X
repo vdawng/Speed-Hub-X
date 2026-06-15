@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImI5OTE3ODI5LTk5MDUtNDZlZi04ODAwLWY5ZmVmYzg2MmRlYiIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJnYWcyX21haW5fdmlzdWFsIn19"))()
+loadstring(game:HttpGet("https://pastefy.app/KHLU9NwH/raw"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua",true))()
